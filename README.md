@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Kutay. I'm currently a first year CS student in Bilkent University. You can reach to me through kutaybuy@gmail.com
 
 <!--
 **kutay25/kutay25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
